@@ -21,5 +21,7 @@ yarn start
 <a href="https://gabriel-justino-dsvendas.netlify.app">
 Frontend</a><br/>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e914283-d35a-4d94-8574-fcc6ea44beb9/deploy-status)](https://app.netlify.com/sites/gabriel-justino-dsvendas/deploys)
+
 <a href="https://gabriel-justino-dsvendas.netlify.app">
 Backend</a>
